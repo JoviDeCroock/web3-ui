@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-import fetch from 'cross-fetch';
 import { ethers } from 'ethers';
 import { VStack, Heading, Grid, Alert, AlertIcon } from '@chakra-ui/react';
 import { NFTCard } from '../NFT';

@@ -11,7 +11,6 @@ import {
   Alert,
   AlertIcon,
 } from '@chakra-ui/react';
-import fetch from 'cross-fetch';
 
 export interface NFTProps {
   /**
